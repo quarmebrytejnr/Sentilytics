@@ -1,0 +1,1 @@
+// Main JavaScript file for Social Insights Hub
